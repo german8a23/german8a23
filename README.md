@@ -8,14 +8,15 @@
 
 </samp>
 
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 
 </p>
 
 <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
- 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<img src="https://i.imgur.com/dBaSKWF.gif"height="20" width="1000"align="center" >
 <!--🖼️ILOVEOPENSOURCE-->
+
+
 <br/>
 
 <p align="center">
